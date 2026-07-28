@@ -1,16 +1,60 @@
-# React + Vite
+# MotionNest
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A premium marketplace for motion graphics assets, templates, plugins, scripts, presets, and creative resources.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+- Premium After Effects Templates
+- Motion Graphics Assets
+- Plugins
+- Scripts
+- Presets
+- Responsive Design
+- Modern UI
+- Fast Performance
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- React Router
+- CSS3
+
+---
+
+## 🚀 Project Status
+
+🟢 Currently under active development.
+
+Version: **1.0**
+
+---
+
+## 📌 Roadmap
+
+- [x] Landing Page
+- [x] Responsive Navbar
+- [x] Hero Section
+- [x] Featured Categories
+- [x] Featured Products
+- [x] Footer
+- [ ] Authentication
+- [ ] Product Pages
+- [ ] Dashboard
+- [ ] Payment Integration
+- [ ] Seller Panel
+- [ ] Admin Panel
+
+---
+
+## 👨‍💻 Developer
+
+**Pritam Das**
+
+---
+
+© 2026 MotionNest. All Rights Reserved.
